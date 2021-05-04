@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l33t0&label=Profile%20views&color=0e75b6&style=flat" alt="l33t0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l33t0" alt="l33t0" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/l33t0" target="blank"><img src="https://img.shields.io/twitter/follow/l33t0?logo=twitter&style=for-the-badge" alt="l33t0" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
