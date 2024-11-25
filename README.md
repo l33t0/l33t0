@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stefan</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Writing bugs, breeding slugs 🐌</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=l33t0&label=Profile%20views&color=0e75b6&style=flat" alt="l33t0" /> </p>
