@@ -1,13 +1,13 @@
-<svg width="600" height="410" viewBox="0 0 600 410" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="432" viewBox="0 0 600 432" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="rounded">
-      <rect width="600" height="410" rx="12"/>
+      <rect width="600" height="432" rx="12"/>
     </clipPath>
   </defs>
   <g clip-path="url(#rounded)">
     <!-- background -->
-    <rect width="600" height="410" fill="#15141b"/>
-    <rect width="600" height="410" rx="12" fill="none" stroke="#a277ff" stroke-opacity="0.15" stroke-width="1"/>
+    <rect width="600" height="432" fill="#15141b"/>
+    <rect width="600" height="432" rx="12" fill="none" stroke="#a277ff" stroke-opacity="0.15" stroke-width="1"/>
     <!-- title bar -->
     <rect width="600" height="40" fill="#1c1b26"/>
     <!-- traffic lights -->
@@ -35,5 +35,6 @@
     <text x="24" y="340" xml:space="preserve" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="14"><tspan fill="#edecee">  </tspan><tspan fill="#f694ff">-</tspan><tspan fill="#edecee"> </tspan><tspan fill="#f694ff">agents.l33t0.dev</tspan><tspan fill="#edecee">    </tspan><tspan fill="#6d6d6d"># autonomous ai agents</tspan></text>
     <text x="24" y="362" xml:space="preserve" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="14"><tspan fill="#edecee">  </tspan><tspan fill="#f694ff">-</tspan><tspan fill="#edecee"> </tspan><tspan fill="#f694ff">l33t0.sh</tspan><tspan fill="#edecee">            </tspan><tspan fill="#6d6d6d"># terminal tools</tspan></text>
     <text x="24" y="384" xml:space="preserve" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="14"><tspan fill="#edecee">  </tspan><tspan fill="#f694ff">-</tspan><tspan fill="#edecee"> </tspan><tspan fill="#f694ff">l33t0.cloud</tspan><tspan fill="#edecee">         </tspan><tspan fill="#6d6d6d"># infra &amp; observability</tspan></text>
+    <text x="24" y="406" xml:space="preserve" font-family="'JetBrains Mono','SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="14"><tspan fill="#edecee">  </tspan><tspan fill="#f694ff">-</tspan><tspan fill="#edecee"> </tspan><tspan fill="#f694ff">spacebot.sh</tspan><tspan fill="#edecee">         </tspan><tspan fill="#6d6d6d"># spacedrive ai · @jamiepine</tspan></text>
   </g>
 </svg>
